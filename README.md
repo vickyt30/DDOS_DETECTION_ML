@@ -36,13 +36,13 @@ Since we have over 100K samples in the minority class, we can use random undersa
 - Logistic Regression: 0.9904716509939988
 - Random Forest: 0.9999999856560075
 - KNN: 0.9998091214573287
-- AdaBoost: 0.9999991923228831
+- Naive Bayes: 0.9898800001233344
 
 Furthermore, their accuracies were noted too:
 - 'Logistic Regression': 0.9592333333333334
 - 'Random Forest': 0.9999666666666667
 - 'KNN': 0.9987833333333334
-- 'AdaBoost': 0.9997
+- 'Naive Bayes': 0.9997
 
 The better option among these classifiers is Random Forest eventhough all of them perform well.
 
